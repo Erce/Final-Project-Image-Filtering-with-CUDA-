@@ -1,0 +1,9 @@
+//Ornek more blur filter
+
+height 5 width 5
+
+1 2 4 2 1
+2 4 7 4 2
+4 7 9 7 4
+2 4 7 4 2
+1 2 4 2 1

@@ -1,0 +1,6 @@
+//discrete approximations to the Laplacian filter
+height 3 width 3
+
+-1 -1 -1
+-1 8 -1
+-1 -1 -1
